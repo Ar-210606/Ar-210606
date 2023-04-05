@@ -1,10 +1,7 @@
 <html> 
 <h1> About me: <h1>
   <ul>
-    <li>👋 Hi, I’m @Ar-210606 </li>
-    <li>👀 I’m interested in Computers and coding</li>
-    <li>🌱 I’m currently learning HTML</li>
-    <li>💞️ I’m looking to collaborate on- Nah, I'm still learning</li>
+    <li>Hi</li>
   </ul>
 </html>
 <!---
